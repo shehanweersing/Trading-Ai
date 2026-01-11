@@ -1,5 +1,5 @@
-# Trading-Ai 
-# 🤖 AI-Powered XAUUSD Trading Bot (LSTM)
+
+## 🤖 AI-Powered XAUUSD Trading Bot (LSTM)
 
 An advanced automated trading bot for **Gold (XAUUSD)** that uses **Deep Learning (LSTM)** to predict market movements. This bot analyzes historical price data, technical indicators (RSI, EMA, ATR), and market volatility to execute Buy/Sell trades automatically on **MetaTrader 5 (MT5)**.
 
